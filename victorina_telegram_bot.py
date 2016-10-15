@@ -27,7 +27,7 @@ class GoldRO(object):
 	def __init__(self):
 		self.first_run = {}
 		self.token = '123'
-		self.bot_db = "QuizBot.db"
+		self.bot_db = "quests.db"
 		self.quest_between = "-2 hours"
 		self.hint_timeout = 15
 		self.db_conn = None
