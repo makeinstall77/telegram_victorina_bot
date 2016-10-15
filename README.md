@@ -1,4 +1,4 @@
-# HOWTO
+# How to use
 It's required https://github.com/python-telegram-bot/python-telegram-bot
 
 Use https://telegram.me/BotFather for making new bot
