@@ -1,4 +1,6 @@
 # telegram_victorina_bot
+It's required https://github.com/python-telegram-bot/python-telegram-bot
+
 Use @botfather for make new bot
 
 Enable /setjoingroups for your bot
